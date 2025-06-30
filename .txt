@@ -1,0 +1,17 @@
+[33mcommit 19139470f43098e4888e36db024a9d3d97a53b41[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Dhanyashreegowda <118440708+Dhanyashreegowda@users.noreply.github.com>
+Date:   Mon Jun 30 14:34:55 2025 +0530
+
+    names.txt is deleted
+
+[33mcommit 30264482b0773da0b4d0fc46a1eff9295ab3f6d5[m
+Author: Dhanyashreegowda <118440708+Dhanyashreegowda@users.noreply.github.com>
+Date:   Mon Jun 30 14:29:36 2025 +0530
+
+    names.txt files are changedddd
+
+[33mcommit 8a47bfe64d7b8c968f3ac7f8d5a47b4eee53b7c8[m
+Author: Dhanyashreegowda <118440708+Dhanyashreegowda@users.noreply.github.com>
+Date:   Mon Jun 30 12:56:39 2025 +0530
+
+    names.txt file is added to the history
